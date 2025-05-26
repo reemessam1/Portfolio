@@ -25,10 +25,9 @@ King Fahd University of Petroleum and Minerals (KFUPM)
 ##  Skills:
 
 ###  Technical
-- **Languages**: Python, Java, JavaScript, HTML, CSS, SQL  
+- **Programming**: Python, Java, JavaScript, HTML, CSS, SQL  
 - **Frameworks & Libraries**: React, Node.js, Express.js, JavaFX  
-- **Databases**: MongoDB, SQL  
-- **Tools**: Figma, GitHub, VS code, Microsoft Office  
+- **Tools**: Figma, GitHub, VS code, Microsoft Office, MongoDB, SQL, UML Tools   
 - **UI/UX**: JavaFX, Figma  
 
 ###  Languages
