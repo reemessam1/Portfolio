@@ -81,6 +81,6 @@ Aligned with **Vision 2030**, Jadwill supports sustainable tourism, promotes cul
 - Set up automated deployment and testing.
 
 ---
-## Project Source Code & Live presentation of the maun functionalities 
+## Project Source Code & Live presentation of the main functionalities 
 -[https://github.com/SarahAlabkari/SWE363_Project.git]
 -[https://www.youtube.com/watch?v=t_jQP5KAQcg]
