@@ -6,8 +6,8 @@
 **Database**: MongoDB Atlas (Free Cluster)
 
 ---
-
-## 📖 Project Overview
+ 
+##  Project Overview
 
 **Jadwill** is an interactive tourism platform aimed at boosting domestic tourism in Saudi Arabia. It connects tourists with **local tour guides** and **experienced activity providers** to offer culturally rich and personalized itineraries. The goal is to let tourists explore Saudi destinations through a local's lens—discovering not only landmarks but also hidden gems, customs, and local stories.
 
