@@ -53,8 +53,8 @@ My main responsibilities included:
 
 ##  Prototypes & Presentation 
 
-
 - https://www.canva.com/design/DAGfeOqIuIA/vT3XBc_PzHTF_CZglZc92g/edit?utm_content=DAGfeOqIuIA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- https://www.figma.com/design/XsDFwX2OY307TBH0io2a8G/HACKATHON?node-id=0-1&t=X6z6Dg8CD6NJYoQH-1
 ---
 
 ##  Technologies Used
