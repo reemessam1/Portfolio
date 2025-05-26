@@ -10,8 +10,11 @@ In less than 40 minutes, we conceptualized and prototyped an engaging app target
 We focused on delivering a **clean, intuitive interface** with large buttons, bright colors, and playful icons to ensure accessibility and enjoyment for children. The app also included gamified rewards and sound effects to keep young users motivated and focused.
 
 The design balanced **fun, learning, and usability**, and demonstrated how technology can be a supportive tool in early childhood development.
+
+
 ---
 🏆 Out of seven competing teams, Our design was awarded **2nd place** for:
+---
 - Clear visual hierarchy
 - Thoughtful user flow
 - Strong alignment with the competition themes
