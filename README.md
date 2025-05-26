@@ -1,6 +1,6 @@
 #  Reem Abdelgawad – Software Engineering Student
 
-Hi! I'm Reem Abdelgawad, a Software Engineering student at King Fahd University of Petroleum and Minerals (KFUPM), one of the top-ranked universities in the Middle East. I’m passionate about building innovative software solutions that enhance efficiency and user experience. I enjoy working on full-stack applications, solving real-world problems, and continuously learning new technologies.
+Software Engineering student at King Fahd University of Petroleum and Minerals (KFUPM), one of the top-ranked universities in the Middle East. I’m passionate about building innovative software solutions that enhance efficiency and user experience. I enjoy working on full-stack applications, solving real-world problems, and continuously learning new technologies.
 
 ---
 
@@ -28,7 +28,7 @@ King Fahd University of Petroleum and Minerals (KFUPM)
 - **Languages**: Python, Java, JavaScript, HTML, CSS, SQL  
 - **Frameworks & Libraries**: React, Node.js, Express.js, JavaFX  
 - **Databases**: MongoDB, SQL  
-- **Tools**: Git, GitHub, RESTful APIs, Vercel, Figma, Microsoft Office  
+- **Tools**: Figma, GitHub, VS code, Microsoft Office  
 - **UI/UX**: JavaFX, Figma  
 
 ###  Languages
@@ -95,9 +95,8 @@ King Fahd University of Petroleum and Minerals (KFUPM)
 
 ##  Contact Me
 
-📍 Dammam, Saudi Arabia  
-📧 Email: [reemessam3002@gmail.com](mailto:reemessam3002@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/reem-abdelgawad](https://www.linkedin.com/in/reem-abdelgawad)  
-🐙 GitHub: [github.com/your-username](https://github.com/your-username) *(replace with your actual username)*
+ Dammam, Saudi Arabia  
+ Email: [reemessam3002@gmail.com]
+ LinkedIn: [linkedin.com/in/reem-abdelgawad](https://www.linkedin.com/in/reem-abdelgawad)  
 
 ---
