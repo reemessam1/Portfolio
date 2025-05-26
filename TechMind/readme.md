@@ -18,3 +18,5 @@ My design balanced **fun, learning, and usability**, and demonstrated how techno
 - Excellent adaptation for the target audience 
 
 This experience not only sharpened my design thinking under pressure but also deepened my understanding of how to **design for young users** with both creativity and empathy.
+**Prototype**
+![1](https://github.com/reemessam1/Portfolio/blob/main/TechMind/techmind.png?raw=true)
