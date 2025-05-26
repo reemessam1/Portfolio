@@ -2,8 +2,8 @@
 
 **Course**: SWE363 – Web Development - KFUPM
 **Project Type**: Full-stack Web Application  
-**Deployment**: Frontend + Backend on Render (Free Tier)  
-**Database**: MongoDB Atlas (Free Cluster)
+**Deployment**: Frontend + Backend on Render   
+**Database**: MongoDB Atlas 
 
 ---
  
@@ -54,10 +54,10 @@ Aligned with **Vision 2030**, Jadwill supports sustainable tourism, promotes cul
 | Database         | MongoDB Atlas (NoSQL, Mongoose ODM)         |
 | Design & Prototyping | Figma                                   |
 | Testing          | Postman, Axios                              |
-| Deployment       | Render (Free Tier)                          |
+| Deployment       | Render                                      |
 | Version Control  | Git & GitHub                                |
-| Visualization    | Recharts (Monthly earnings chart)           |
-
+| Visualization    | Recharts                                    |
+| API Architecture | RESTful API Endpoints built using Express.js|
 
 ---
 
@@ -77,7 +77,7 @@ Aligned with **Vision 2030**, Jadwill supports sustainable tourism, promotes cul
 - Upgrade to paid hosting (AWS or Heroku Pro) for faster response.
 - Integrate secure payment gateways like **Stripe** or **PayPal**.
 - Add **interactive maps** using Leaflet.js or Google Maps API.
-- Set up **CI/CD pipelines** with GitHub Actions for automated deployment and testing.
+- Set up automated deployment and testing.
 
 ---
 
