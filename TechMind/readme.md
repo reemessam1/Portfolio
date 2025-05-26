@@ -5,7 +5,7 @@ As part of a rapid design challenge during a UI/UX workshop, I participated in a
 In less than 40 minutes, we conceptualized and prototyped an engaging app targeted at **children**. The idea was to create a colorful, interactive experience where kids could:
 - 🎮 Play mini-games that entertain and challenge their thinking
 - 🧠 Solve brain puzzles to develop cognitive skills
-- 💡 Explore simple tech-related activities like building blocks, shape sorting, and pattern recognition
+- 💡 Explore simple tech-related activities
 
 We focused on delivering a **clean, intuitive interface** with large buttons, bright colors, and playful icons to ensure accessibility and enjoyment for children. The app also included gamified rewards and sound effects to keep young users motivated and focused.
 
