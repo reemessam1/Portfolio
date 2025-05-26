@@ -1,6 +1,6 @@
 #  Reem Abdelgawad – Software Engineering Student
 
-Software Engineering student at King Fahd University of Petroleum and Minerals (KFUPM), one of the top-ranked universities in the Middle East. I’m passionate about building innovative software solutions that enhance efficiency and user experience. I enjoy working on full-stack applications, solving real-world problems, and continuously learning new technologies.
+Software Engineering student at King Fahd University of Petroleum and Minerals (KFUPM), one of the top-ranked universities in the Middle East. I’m passionate about building innovative software solutions that enhance efficiency and user experience. I enjoy working on full-stack applications, UI/UX, solving real-world problems, continuously learning new technologies and strong interest in **UI/UX design** — crafting clean, accessible, and intuitive interfaces that make digital experiences enjoyable for users..
 
 ---
 
