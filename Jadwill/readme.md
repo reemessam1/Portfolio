@@ -39,6 +39,7 @@ Aligned with **Vision 2030**, Jadwill supports sustainable tourism, promotes cul
 - Maintain a history of events and update details dynamically.
 
 ###  Admin Panel
+- Review and approve/reject new user registrations.
 - Moderate pending registrations and activities.
 - Manage users by role, status, and access levels.
 - Handle complaints with filtering and real-time status control.
