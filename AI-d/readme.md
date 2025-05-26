@@ -28,7 +28,7 @@ Many bystanders hesitate to perform first aid due to fear, stress, or lack of tr
 
 ---
 
-##  My Role*
+##  My Role
 
 My main responsibilities included:
 
@@ -51,10 +51,10 @@ My main responsibilities included:
 
 ---
 
-##  Prototype 
+##  Prototypes & Presentation 
 
 
-
+- https://www.canva.com/design/DAGfeOqIuIA/vT3XBc_PzHTF_CZglZc92g/edit?utm_content=DAGfeOqIuIA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ---
 
 ##  Technologies Used
