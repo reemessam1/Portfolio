@@ -10,7 +10,7 @@ In less than 40 minutes, we conceptualized and prototyped an engaging app target
 We focused on delivering a **clean, intuitive interface** with large buttons, bright colors, and playful icons to ensure accessibility and enjoyment for children. The app also included gamified rewards and sound effects to keep young users motivated and focused.
 
 The design balanced **fun, learning, and usability**, and demonstrated how technology can be a supportive tool in early childhood development.
-
+---
 🏆 Out of seven competing teams, Our design was awarded **2nd place** for:
 - Clear visual hierarchy
 - Thoughtful user flow
@@ -21,6 +21,9 @@ This experience not only sharpened my design thinking under pressure but also de
 
 ---
 **Prototype**
+---
+
 ![1](https://github.com/reemessam1/Portfolio/blob/main/TechMind/techmind.png?raw=true)
 ![2](https://github.com/reemessam1/Portfolio/blob/main/TechMind/techmind%2022.png?raw=true)
+![3](https://github.com/reemessam1/Portfolio/blob/main/TechMind/techmind%203.png?raw=true)
 ---
