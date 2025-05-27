@@ -79,8 +79,10 @@ King Fahd University of Petroleum and Minerals (KFUPM)
 ##  Achievements & Events
 
 ###  Hackathon – KFUPM & UCL Solution Hackathon  
-- Built real-time **AI-powered First Aid App** in 5 hours  
+- Innovated a real-time AI-powered first aid application to address emergency health conditions in 5 hours, developed the prototypes using Figma for seamless user experience.  
 - Secured **2nd place**, ranked top 3 among 20+ teams
+
+ 
 
 ###  UI/UX Design Competition  
 - Developed creative solution merging 3 themes in under 1 hour  
