@@ -1,113 +1,192 @@
-#  Reem Abdelgawad – Software Engineering Student
+#  Reem Essam Abdelgawad – UI/UX Designer & Software Engineering Student
 
-Software Engineering student at King Fahd University of Petroleum and Minerals (KFUPM), one of the top-ranked universities in the Middle East. I’m passionate about building innovative software solutions that enhance efficiency and user experience. I enjoy working on full-stack applications, UI/UX, solving real-world problems, continuously learning new technologies and strong interest in **UI/UX design** — crafting clean, accessible, and intuitive interfaces that make digital experiences enjoyable for users.
+📍 Dammam, Saudi Arabia  
+📞 +966 593 392 900  
+📧 reemessam3002@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/reem-abdelgawad  
+
+---
+
+##  About Me
+
+I am a **Software Engineering student at King Fahd University of Petroleum and Minerals (KFUPM)**, one of the top-ranked universities in the Middle East, with strong programming foundations and hands-on experience in **UI/UX design**.
+
+I am passionate about crafting **clean, accessible, and intuitive user interfaces** that enhance usability and create meaningful digital experiences. With a solid technical background, I enjoy bridging the gap between **design and development**, allowing me to design user-centered solutions that are both visually effective and technically feasible for web and mobile applications.
+
+I am seeking opportunities to contribute my **design thinking, problem-solving skills, and technical understanding** in a **UI/UX Designer role**.
 
 ---
 
 ##  Education
 
-**B.Sc. in Software Engineering**  
-King Fahd University of Petroleum and Minerals (KFUPM)  
- Aug 2021 – May 2026  
+**Bachelor of Science in Software Engineering**  
+**King Fahd University for Petroleum and Minerals (KFUPM)**  
+*August 2021 – May 2026*
+
 ---
 
 ##  Experience
 
-**Combined Role as UI/UX Designer & Product Owner Intern, FATHOM.IO**
--	Designed and prototyped user-centered interfaces using Figma, ensuring intuitive navigation and seamless interactions.
--	Conducted usability reviews and incorporated user feedback to refine designs and improve overall experience.
--	Collaborated with product teams to translate requirements into interactive wireframes and high-fidelity mockups.
--	Led the redesign of existing features, enhancing usability, accessibility, and visual consistency.
--	Contributed to the design of the AI Agent feature, focusing on user flows and interaction design to optimize engagement.
--	Owned and prioritized the product backlog to align with business strategy and stakeholder needs.
--	Defined clear user stories and acceptance criteria to guide the development team.
--	Spearheaded the delivery of the AI Agent feature, ensuring its functionality matched user requirements and market expectations
--	Oversaw redesign initiatives for existing features to improve usability and product value.
--	Ensured continuous product improvement through iterative testing, feedback integration, and agile ceremonies.
-
-**Laboratory Assistant – KFUPM**  
-*Introduction to Software Engineering (SWE206)*  
-- Assisted students with lab tasks and term projects  
-- Ensured understanding of core software engineering principles  
+### **UI/UX Designer & Product Owner Intern**  
+**Fathom.io**
+- Designed and prototyped user-centered interfaces using **Figma**, ensuring intuitive navigation and seamless interactions.
+- Conducted usability reviews and integrated user feedback to refine designs and improve overall experience.
+- Collaborated with product teams to translate requirements into **user flows, wireframes, and high-fidelity mockups**.
+- Led redesign initiatives to enhance usability, accessibility, and visual consistency.
+- Designed and delivered the **AI Agent feature**, focusing on interaction design, user flows, and market alignment.
+- Owned and prioritized the product backlog, defining clear user stories and acceptance criteria.
+- Guided development through **Agile ceremonies**, ensuring continuous product improvement through iteration and feedback.
 
 ---
 
-##  Skills:
+### **Laboratory Assistant**  
+**KFUPM – Introduction to Software Engineering**
+- Worked part-time assisting students during lab sessions.
+- Supported students in completing lab tasks and developing term projects.
+- Reinforced understanding of core software engineering concepts.
 
-###  Technical
-- **Programming**: Python, Java, JavaScript, HTML, CSS, SQL  
-- **Frameworks & Libraries**: React, Node.js, Express.js, JavaFX  
-- **Tools**: Figma, FigJam, Miro, GitHub, Canva, VS code, Microsoft Office, MongoDB, SQL, UML Tools  
-- **UI/UX**: Figma  
+---
 
-###  Languages
-- Arabic: Native  
-- English: Fluent  
-
-###  Soft Skills
-- Problem Solving & Critical Thinking  
-- Teamwork & Communication  
-- Time & Task Management  
+### **Volunteer Program Assistant**  
+**KFUPM**
+- Supported all phases of the program lifecycle, from planning to execution and closure.
+- Contributed to documentation, reporting, and visual material design.
+- Assisted with public relations, registration processes, communication, and HR coordination.
+- Collaborated with cross-functional teams to ensure smooth program delivery.
 
 ---
 
 ##  Projects
 
-###  AI Agent   
-- Contributed to the development of an AI Agent feature by designing intuitive user flows and interactive prototypes.
-- Redesign of existing product interfaces, improving usability, accessibility, and visual consistency.
-
-###  Jadwill – Smart Tour Planning Website  
-- Full-stack web app using **React**, **Node.js**, **MongoDB**  
-- Features responsive design, REST APIs, and dynamic tour/activity management
-
-###  Speed Click Game  
-- Built using **JavaFX**  
-- Focused on real-time interaction and user feedback
-
-###  Railway Reservation System  
-- Database-driven system using **SQL** and Java GUI
-
-###  Cybersecurity Project  
-- End-to-end lifecycle from **attack simulation** to **defense (Fail2Ban)** using Kali Linux and Metasploitable
-
-###  Cruise Control System Testing  
-- Designed and executed **unit/system tests** using **JUnit** and **EclEmma**
-
-###  Smart Dormitory Management App  
-- Led budgeting, estimation, and system planning phases  
-- Developed features for room booking, maintenance, and announcements
-
-###  Flight Booking System  
-- Multi-user desktop application managing flight schedules and bookings
-
-###  Consortia Management System (KFUPM)  
-- Analyzed and prototyped a research collaboration portal  
-- Delivered interactive **Figma** prototypes
----
-
-##  Achievements & Events
-
-###  Hackathon – KFUPM & UCL Solution Hackathon  
-- Innovated a real-time AI-powered first aid application to address emergency health conditions in 5 hours, developed the prototypes using Figma for seamless user experience.  
-- Secured **2nd place**, ranked top 3 among 20+ teams
-
- 
-
-###  UI/UX Design Competition  
-- Developed creative solution merging 3 themes in under 1 hour  
-- Achieved **2nd place** out of 7 teams
-
-###  Female Computer Club – Management Committee  
-- Organized and led workshops, hackathons, and tech events  
-- Participated in strategic planning and leadership activities
+### **AI Agent – Product Feature**
+- Designed user flows and interactive prototypes for an AI-powered agent.
+- Redesigned existing interfaces to improve usability, accessibility, and visual consistency.
 
 ---
 
-##  Contact Me
+### **MyBudget – Mobile Money Tracking Application**
+- Designed and developed a personal finance tracking mobile application.
+- Technologies used: **Flutter, Dart, Firebase**, and **Figma**.
+- Focused on usability, clarity, and simple interaction patterns.
 
- Dammam, Saudi Arabia  
- Email: [reemessam3002@gmail.com]
- LinkedIn: [linkedin.com/in/reem-abdelgawad](https://www.linkedin.com/in/reem-abdelgawad)  
+---
+
+### **Jadwill – Smart Tour Planning Website**
+- Full-stack web application developed using **React, Node.js, MongoDB**, and **RESTful APIs**.
+- Implemented responsive UI design and dynamic activity management.
+- Focused on improving user experience across different devices.
+
+---
+
+### **Consortia Management System (KFUPM)**
+- Analyzed the initial system design and user requirements.
+- Designed full **UI/UX prototypes** using **Figma** for a research collaboration platform.
+
+---
+
+### **Centralized Management System – KFUPM Research Center**
+- Developed a centralized system to support operational and administrative management.
+
+---
+
+### **Smart Dormitory Management App**
+- Managed planning, budgeting, and estimation phases.
+- Designed features for room booking, maintenance requests, and announcements.
+
+---
+
+### **Railway Reservation System**
+- Database-driven reservation system using **SQL** and Java GUI.
+- Focused on transaction flow and data integrity.
+
+---
+
+### **Flight Booking System**
+- Multi-user desktop application managing flight schedules and reservations.
+
+---
+
+### **Speed Click Game**
+- Interactive desktop game built using **JavaFX**.
+- Focused on real-time interaction and user feedback.
+
+---
+
+### **Cybersecurity Project**
+- Executed the full cybersecurity lifecycle from **attack simulation** to **defense implementation**.
+- Tools used: Kali Linux, Metasploitable, and Fail2Ban.
+
+---
+
+### **Cruise Control System Testing**
+- Designed and executed **unit and system tests** using **JUnit** and **EclEmma**.
+- Analyzed test coverage and system reliability.
+
+---
+
+##  Volunteering & Activities
+
+### **Technical Team Member (UI/UX Designer)**  
+**TEDxKFUPM**
+- Designed web and digital assets aligned with **TEDx visual identity guidelines**.
+- Created wireframes and visual designs for event-related platforms.
+- Collaborated with technical and content teams to deliver consistent and engaging user experiences.
+
+---
+
+### **Management Committee Member**  
+**Female Computer Club**
+- Planned and managed multiple tech-oriented events, including hackathons, workshops, and seminars.
+- Contributed to strategic decision-making and leadership activities.
+
+---
+
+### **Hackathon Participant – KFUPM & UCL Solution Hackathon**
+- Designed a real-time AI-powered first aid application under intense time constraints.
+- Built UI/UX prototypes using **Figma** within 5 hours.
+- Conceived the idea in 2 hours and developed a functional solution.
+- Achieved **2nd place**, ranking among the top three KFUPM teams out of 20.
+
+---
+
+### **UI/UX Workshop Competition Participant**
+- Designed an application combining three different themes in under one hour.
+- Maintained a high level of usability and interaction quality.
+- Achieved **2nd place** out of seven teams.
+
+---
+
+##  Skills & Abilities
+
+### **Technical Skills**
+- **Programming:** Python, Java, HTML, CSS, SQL, JavaScript, Dart  
+- **Frameworks & Libraries:** Flutter, React  
+- **UI/UX Design:** Figma  
+- **Tools:** GitHub, Canva, Miro, FigJam, Microsoft Office, UML Tools  
+
+### **Soft Skills**
+- Problem Solving & Critical Thinking  
+- Teamwork & Effective Communication  
+- Time & Task Management  
+
+### **Languages**
+- Arabic (Native)  
+- English (Fluent)
+
+---
+
+##  Certifications
+- Enterprise Design Thinking Practitioner  
+- How to Start Your Career in User Experience (UX)  
+- Introduction to Microsoft Excel  
+- Work Principles and Fundamentals Course  
+
+---
+
+##  Contact
+Feel free to reach out for collaboration, opportunities, or questions.
+
+📧 Email: reemessam3002@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/reem-abdelgawad  
 
 ---
