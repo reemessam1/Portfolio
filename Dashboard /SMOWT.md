@@ -13,7 +13,7 @@
 **Dashboard Demo**  
 https://canva.link/yeykr6jnb4wttxa
 
-![Project Poster](dashboard poster.png)
+![Project Poster](Dashboards/dashboard poster.png)
 
 
 ---
