@@ -38,12 +38,48 @@ The main objective was to create a clean, engaging, and user-friendly experience
 
 ---
 
-## UX Process
-- Analyzed event requirements and content needs  
-- Designed low-fidelity wireframes to define layout and user flow  
-- Created high-fidelity UI designs using Figma  
-- Focused on visual hierarchy, readability, and accessibility  
-- Iterated designs based on feedback from technical and content teams  
+# Design Process
+
+### 🔍 Research
+- Gathered project requirements from the organizing team.
+- Reviewed TEDx visual identity guidelines.
+- Identified the primary user groups and their goals.
+
+### 🗂 Information Architecture
+- Organized website content into logical sections.
+- Prioritized speakers, agenda, and registration to match user expectations.
+
+### ✏️ Wireframing
+- Created low-fidelity wireframes to define layouts and user flows.
+- Validated content hierarchy before moving to visual design.
+
+### 🎨 UI Design
+- Designed high-fidelity responsive interfaces in Figma.
+- Applied a consistent typography, color palette, spacing system, and reusable components.
+
+### ✅ Heuristic Evaluation
+- Reviewed the design using Nielsen's usability heuristics.
+- Evaluated navigation, consistency, visibility, and accessibility.
+- Refined layouts and navigation based on the evaluation.
+
+### 🧪 Usability Testing
+- Tested common user tasks such as:
+  - Finding speakers
+  - Viewing the agenda
+  - Registering for the event
+- Collected feedback on navigation, readability, and discoverability.
+- Refined the design based on the findings.
+
+---
+
+# UX Design Decisions
+
+- Used a strong **visual hierarchy** to highlight the most important event information.
+- Prioritized **event registration** with clear and repeated call-to-action buttons.
+- Simplified navigation to reduce cognitive load and improve discoverability.
+- Applied TEDx branding consistently while maintaining readability.
+- Designed responsive layouts for desktop, tablet, and mobile devices.
+- Applied accessibility best practices including sufficient color contrast, readable typography, and touch-friendly interactive elements.
 
 ---
 
