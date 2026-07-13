@@ -10,7 +10,7 @@
 
 ## Project Links
 - 🎨 **Figma Design File:** https://www.figma.com/design/qDDuWRZM3njOqKWNFpyLHZ/TEDx-KFUPM-website?node-id=0-1&t=jRE9YHaO2zZXOnga-1 
-- 🖥 **Live Website:** https://teams.microsoft.com/l/message/48:notes/1770665776853?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3A95b7bf3a-2f62-4d8e-a377-8cee4955f2be%22%7D  
+- 🖥 **Live Website:** https://tedxkfupm.com/
 
 ---
 
