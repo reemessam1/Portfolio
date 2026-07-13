@@ -13,6 +13,9 @@
 **Dashboard Demo**  
 https://canva.link/yeykr6jnb4wttxa
 
+![Project Poster](images/poster.png)
+
+
 ---
 
 # Project Overview
