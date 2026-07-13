@@ -10,7 +10,7 @@
 
 ## 🔗 Project Links
 
-🎨 **Interactive Dashboard Demo**  
+**Dashboard Demo**  
 https://canva.link/yeykr6jnb4wttxa
 
 ---
