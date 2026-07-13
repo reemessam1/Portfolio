@@ -1,4 +1,4 @@
-#  Reem Essam Abdelgawad – UI/UX Designer & Software Engineering Student
+#  Reem Essam Abdelgawad – UI/UX Designer & Software Engineer
 
 📍 Dammam, Saudi Arabia  
 📞 +966 593 392 900  
@@ -9,17 +9,15 @@
 
 ##  About Me
 
-I am a **Software Engineering student at King Fahd University of Petroleum and Minerals (KFUPM)**, one of the top-ranked universities in the Middle East, with strong programming foundations and hands-on experience in **UI/UX design**.
+I am a **Software Engineering fresh graduate from King Fahd University of Petroleum and Minerals (KFUPM) with second honors**, one of the top-ranked universities in the Middle East, with strong programming foundations and hands-on experience in **UI/UX design**.
 
 I am passionate about crafting **clean, accessible, and intuitive user interfaces** that enhance usability and create meaningful digital experiences. With a solid technical background, I enjoy bridging the gap between **design and development**, allowing me to design user-centered solutions that are both visually effective and technically feasible for web and mobile applications.
-
-I am seeking opportunities to contribute my **design thinking, problem-solving skills, and technical understanding** in a **UI/UX Designer role**.
 
 ---
 
 ##  Education
 
-**Bachelor of Science in Software Engineering**  
+**Bachelor of Science in Software Engineering with second honors**  
 **King Fahd University for Petroleum and Minerals (KFUPM)**  
 *August 2021 – May 2026*
 
