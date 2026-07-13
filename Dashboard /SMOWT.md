@@ -4,7 +4,7 @@
 
 **Role:** UI/UX Designer & Software Engineer  
 **Project Type:** Capstone Project  
-**Duration:** 2024 – 2025
+
 
 ---
 
